@@ -1,0 +1,2 @@
+# wakattabot
+Streamlab Chatbot Plugin
